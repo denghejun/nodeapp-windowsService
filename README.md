@@ -2,5 +2,5 @@
 - 特别适用于Http/TCP server，这样就不必要总是打开一个控制台来监听端口了
 - 直接运行：node windows-service即可开始安装
 - 若因权限问题导致安装的服务无法正常启动，则尝试右键服务->属性->Logon,以你本机的账户名和密码登录
-- xx.js的路径设置请查看源文件nodeppt-server.js
+- xx.js的路径设置请查看源文件windows-service.js
 - 本项目是当时host nodeppt web server时临时做的
